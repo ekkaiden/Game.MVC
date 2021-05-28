@@ -1,0 +1,1 @@
+Broken MVC Application that I couldn't finish partially due to some family but, mostly just burnout and a slight lack of knowledge. More or less my own fault for not finishing it.

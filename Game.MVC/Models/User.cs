@@ -10,8 +10,7 @@ namespace Game.MVC.Models
     {
         [Key]
         public int UserID { get; set; }
-        [Required]
-        
+        [Required]       
         public string UserName { get; set; }
         public string Password { get; set; }
         public string FirstName { get; set; }
